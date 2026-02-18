@@ -30,3 +30,6 @@ sales-data-analysis/
 ├── sales.csv
 ├── README.md
 └── requirements.txt
+## 🚀 How to Run
+pip install -r requirements.txt
+jupyter notebook
